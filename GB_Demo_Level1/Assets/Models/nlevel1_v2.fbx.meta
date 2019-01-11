@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 50c315245faae42e08409d9eda15b734
+timeCreated: 1469903082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: colliderforPad_1
+    100002: linePiece_1
+    100004: linePiece_1_2
+    100006: linePiece_1_3
+    100008: Lpiece_1
+    100010: Lv1floor
+    100012: Lv1walls
+    100014: //RootNode
+    100016: Null
+    100018: Null_2
+    100020: Null_3
+    100022: PAd
+    100024: Symmetry
+    100026: Symmetry_1
+    100028: Symmetry_1_2
+    100030: topVscreen
+    100032: Tpiece_1
+    100034: triangleP
+    100036: Upiece_1
+    100038: Upiece_1_2
+    400000: colliderforPad_1
+    400002: linePiece_1
+    400004: linePiece_1_2
+    400006: linePiece_1_3
+    400008: Lpiece_1
+    400010: Lv1floor
+    400012: Lv1walls
+    400014: //RootNode
+    400016: Null
+    400018: Null_2
+    400020: Null_3
+    400022: PAd
+    400024: Symmetry
+    400026: Symmetry_1
+    400028: Symmetry_1_2
+    400030: topVscreen
+    400032: Tpiece_1
+    400034: triangleP
+    400036: Upiece_1
+    400038: Upiece_1_2
+    2300000: colliderforPad_1
+    2300002: linePiece_1
+    2300004: linePiece_1_2
+    2300006: linePiece_1_3
+    2300008: Lpiece_1
+    2300010: Lv1floor
+    2300012: Lv1walls
+    2300014: PAd
+    2300016: topVscreen
+    2300018: Tpiece_1
+    2300020: triangleP
+    2300022: Upiece_1
+    2300024: Upiece_1_2
+    3300000: colliderforPad_1
+    3300002: linePiece_1
+    3300004: linePiece_1_2
+    3300006: linePiece_1_3
+    3300008: Lpiece_1
+    3300010: Lv1floor
+    3300012: Lv1walls
+    3300014: PAd
+    3300016: topVscreen
+    3300018: Tpiece_1
+    3300020: triangleP
+    3300022: Upiece_1
+    3300024: Upiece_1_2
+    4300000: PAd
+    4300002: colliderforPad_1
+    4300004: linePiece_1
+    4300006: Upiece_1
+    4300008: linePiece_1_2
+    4300010: Upiece_1_2
+    4300012: Tpiece_1
+    4300014: triangleP
+    4300016: linePiece_1_3
+    4300018: Lpiece_1
+    4300020: Lv1floor
+    4300022: Lv1walls
+    4300024: topVscreen
+    6400000: colliderforPad_1
+    6400002: linePiece_1
+    6400004: linePiece_1_2
+    6400006: linePiece_1_3
+    6400008: Lpiece_1
+    6400010: Lv1floor
+    6400012: Lv1walls
+    6400014: PAd
+    6400016: topVscreen
+    6400018: Tpiece_1
+    6400020: triangleP
+    6400022: Upiece_1
+    6400024: Upiece_1_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

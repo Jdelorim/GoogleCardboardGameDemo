@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 3dfef8557ce334c52a00a5cb34008805
+timeCreated: 1466896150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: //RootNode
+    100004: LV2_insidewall
+    100006: LV2_insidewall_2
+    100008: LV2_outsidewall
+    100010: LV2_outsidewall2
+    100012: LV2_outsidewall3
+    100014: LV2_outsidewall4
+    100016: lv2buildinfg
+    100018: lv2keywall1
+    100020: lv2keywall2
+    100022: lv2NewPowerPad
+    400000: CINEMA_4D_Editor
+    400002: //RootNode
+    400004: LV2_insidewall
+    400006: LV2_insidewall_2
+    400008: LV2_outsidewall
+    400010: LV2_outsidewall2
+    400012: LV2_outsidewall3
+    400014: LV2_outsidewall4
+    400016: lv2buildinfg
+    400018: lv2keywall1
+    400020: lv2keywall2
+    400022: lv2NewPowerPad
+    2300000: LV2_insidewall
+    2300002: LV2_insidewall_2
+    2300004: LV2_outsidewall
+    2300006: LV2_outsidewall2
+    2300008: LV2_outsidewall3
+    2300010: LV2_outsidewall4
+    2300012: lv2buildinfg
+    2300014: lv2keywall1
+    2300016: lv2keywall2
+    2300018: lv2NewPowerPad
+    3300000: LV2_insidewall
+    3300002: LV2_insidewall_2
+    3300004: LV2_outsidewall
+    3300006: LV2_outsidewall2
+    3300008: LV2_outsidewall3
+    3300010: LV2_outsidewall4
+    3300012: lv2buildinfg
+    3300014: lv2keywall1
+    3300016: lv2keywall2
+    3300018: lv2NewPowerPad
+    4300000: lv2keywall1
+    4300002: lv2keywall2
+    4300004: LV2_outsidewall
+    4300006: LV2_outsidewall2
+    4300008: LV2_outsidewall3
+    4300010: LV2_outsidewall4
+    4300012: LV2_insidewall
+    4300014: LV2_insidewall_2
+    4300016: lv2buildinfg
+    4300018: lv2NewPowerPad
+    6400000: LV2_insidewall
+    6400002: LV2_insidewall_2
+    6400004: LV2_outsidewall
+    6400006: LV2_outsidewall2
+    6400008: LV2_outsidewall3
+    6400010: LV2_outsidewall4
+    6400012: lv2buildinfg
+    6400014: lv2keywall1
+    6400016: lv2keywall2
+    6400018: lv2NewPowerPad
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

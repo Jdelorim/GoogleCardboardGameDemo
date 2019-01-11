@@ -1,0 +1,23 @@
+(Click me, if I am too big copy and paste me into a spreadsheet or text editor)
+		OBJECT NAME	LIGHTMAP INDEX	STATIC	OVERLAPPING SUBMESHES	OUT-OF-BOUNDS UVs	NUM MATS	MATERIAL	WARNINGS
+	Mobile/Unlit (Supports Lightmap) (1582 verts): 
+		PB_NewPowerGen (225 verts)	-1	False	False	False	1	[NewPowerGenMaterial (UnityEngine.Material)] 	
+		GB_GENBOT (682 verts)	-1	False	False	False	1	[GENBOT_Color (UnityEngine.Material)] 	
+		PB_NewPowerGen_1 (225 verts)	-1	False	False	False	1	[NewPowerGenMaterial (UnityEngine.Material)] 	
+		PB_NewPowerGen_3 (225 verts)	-1	False	False	False	1	[NewPowerGenMaterial (UnityEngine.Material)] 	
+		PB_NewPowerGen_2 (225 verts)	-1	False	False	False	1	[NewPowerGenMaterial (UnityEngine.Material)] 	
+	Mobile/Unlit (Supports Lightmap) (656 verts): 
+		arenea_1_1_4 (656 verts)	0	True	False	True	1	[arena1_walls (UnityEngine.Material)] 	 [WARNING: has uvs outside the range (0,1) tex is tiled 1x0 times]
+	Mobile/Unlit (Supports Lightmap) (1819 verts): 
+		arenaa1_wall_screen (16 verts)	0	True	False	False	1	[wallscreen (UnityEngine.Material)] 	
+		arenaa1_wall_screen_2 (16 verts)	0	True	False	False	1	[wallscreen (UnityEngine.Material)] 	
+		arena1_wall_3_2 (289 verts)	0	True	False	False	1	[newWallsInside (UnityEngine.Material)] 	
+		arenaa1_wall_screen_4 (16 verts)	0	True	False	False	1	[wallscreen (UnityEngine.Material)] 	
+		arenaa1_wall_screen_3 (16 verts)	0	True	False	False	1	[wallscreen (UnityEngine.Material)] 	
+		arena1_wall (289 verts)	0	True	False	False	1	[newWallsInside (UnityEngine.Material)] 	
+		arenaRoofsideScreens (16 verts)	0	True	False	False	1	[videosidescreens (UnityEngine.Material)] 	
+		NewPowerPad (218 verts)	0	True	False	False	1	[NewPowerPadSon (UnityEngine.Material)] 	
+		arenaRoof (292 verts)	0	True	False	False	2	[arena1_roof (UnityEngine.Material)] [videomainscreen (UnityEngine.Material)] 	
+		arena1_wall_2_2 (289 verts)	0	True	False	False	1	[newWallsInside (UnityEngine.Material)] 	
+		arena1_wall_5 (289 verts)	0	True	False	False	1	[newWallsInside (UnityEngine.Material)] 	
+		arenea_floor (73 verts)	1	True	False	False	1	[arena1_floor (UnityEngine.Material)] 	

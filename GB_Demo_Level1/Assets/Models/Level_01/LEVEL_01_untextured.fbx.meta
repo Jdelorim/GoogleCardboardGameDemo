@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: ac787c9f9353742978542ab21dfc1aad
+timeCreated: 1466715098
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Level_01
+    100004: //RootNode
+    100006: Level_01_walls
+    100008: Level_01floor
+    100010: Level_01roof
+    100012: miniwall
+    100014: miniwall_2
+    100016: miniwall_3
+    100018: miniwall_4
+    100020: NewPowerPad
+    100022: walll
+    100024: walll_1
+    100026: walll_2
+    100028: walll_3
+    400000: CINEMA_4D_Editor
+    400002: Level_01
+    400004: //RootNode
+    400006: Level_01_walls
+    400008: Level_01floor
+    400010: Level_01roof
+    400012: miniwall
+    400014: miniwall_2
+    400016: miniwall_3
+    400018: miniwall_4
+    400020: NewPowerPad
+    400022: walll
+    400024: walll_1
+    400026: walll_2
+    400028: walll_3
+    2300000: Level_01_walls
+    2300002: Level_01floor
+    2300004: Level_01roof
+    2300006: miniwall
+    2300008: miniwall_2
+    2300010: miniwall_3
+    2300012: miniwall_4
+    2300014: NewPowerPad
+    2300016: walll
+    2300018: walll_1
+    2300020: walll_2
+    2300022: walll_3
+    3300000: Level_01_walls
+    3300002: Level_01floor
+    3300004: Level_01roof
+    3300006: miniwall
+    3300008: miniwall_2
+    3300010: miniwall_3
+    3300012: miniwall_4
+    3300014: NewPowerPad
+    3300016: walll
+    3300018: walll_1
+    3300020: walll_2
+    3300022: walll_3
+    4300000: miniwall
+    4300002: miniwall_2
+    4300004: walll_3
+    4300006: walll_2
+    4300008: walll_1
+    4300010: NewPowerPad
+    4300012: walll
+    4300014: Level_01roof
+    4300016: Level_01floor
+    4300018: Level_01_walls
+    4300020: miniwall_3
+    4300022: miniwall_4
+    6400000: Level_01_walls
+    6400002: Level_01floor
+    6400004: Level_01roof
+    6400006: miniwall
+    6400008: miniwall_2
+    6400010: miniwall_3
+    6400012: miniwall_4
+    6400014: NewPowerPad
+    6400016: walll
+    6400018: walll_1
+    6400020: walll_2
+    6400022: walll_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

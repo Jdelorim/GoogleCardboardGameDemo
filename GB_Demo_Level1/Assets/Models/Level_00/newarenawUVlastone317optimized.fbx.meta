@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 4969eab65b14b4102918fe08f1bd12c3
+timeCreated: 1466610671
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arena1_wall
+    100002: arena1_wall_1
+    100004: arena1_wall_2
+    100006: arena1_wall_2_2
+    100008: arena1_wall_3
+    100010: arena1_wall_3_2
+    100012: arena1_wall_4
+    100014: arena1_wall_5
+    100016: arenaa1_wall_screen
+    100018: arenaa1_wall_screen_2
+    100020: arenaa1_wall_screen_3
+    100022: arenaa1_wall_screen_4
+    100024: arenaRoof
+    100026: arenaRoofsideScreens
+    100028: arenea_1_1_4
+    100030: arenea_floor
+    100032: CINEMA_4D_Editor
+    100034: //RootNode
+    100036: NewPowerPad
+    100038: PB_NewPowerGen
+    100040: PB_NewPowerGen_1
+    100042: PB_NewPowerGen_2
+    100044: PB_NewPowerGen_3
+    400000: arena1_wall
+    400002: arena1_wall_1
+    400004: arena1_wall_2
+    400006: arena1_wall_2_2
+    400008: arena1_wall_3
+    400010: arena1_wall_3_2
+    400012: arena1_wall_4
+    400014: arena1_wall_5
+    400016: arenaa1_wall_screen
+    400018: arenaa1_wall_screen_2
+    400020: arenaa1_wall_screen_3
+    400022: arenaa1_wall_screen_4
+    400024: arenaRoof
+    400026: arenaRoofsideScreens
+    400028: arenea_1_1_4
+    400030: arenea_floor
+    400032: CINEMA_4D_Editor
+    400034: //RootNode
+    400036: NewPowerPad
+    400038: PB_NewPowerGen
+    400040: PB_NewPowerGen_1
+    400042: PB_NewPowerGen_2
+    400044: PB_NewPowerGen_3
+    2300000: arena1_wall
+    2300002: arena1_wall_2_2
+    2300004: arena1_wall_3_2
+    2300006: arena1_wall_5
+    2300008: arenaa1_wall_screen
+    2300010: arenaa1_wall_screen_2
+    2300012: arenaa1_wall_screen_3
+    2300014: arenaa1_wall_screen_4
+    2300016: arenaRoof
+    2300018: arenaRoofsideScreens
+    2300020: arenea_1_1_4
+    2300022: arenea_floor
+    2300024: NewPowerPad
+    2300026: PB_NewPowerGen
+    2300028: PB_NewPowerGen_1
+    2300030: PB_NewPowerGen_2
+    2300032: PB_NewPowerGen_3
+    3300000: arena1_wall
+    3300002: arena1_wall_2_2
+    3300004: arena1_wall_3_2
+    3300006: arena1_wall_5
+    3300008: arenaa1_wall_screen
+    3300010: arenaa1_wall_screen_2
+    3300012: arenaa1_wall_screen_3
+    3300014: arenaa1_wall_screen_4
+    3300016: arenaRoof
+    3300018: arenaRoofsideScreens
+    3300020: arenea_1_1_4
+    3300022: arenea_floor
+    3300024: NewPowerPad
+    3300026: PB_NewPowerGen
+    3300028: PB_NewPowerGen_1
+    3300030: PB_NewPowerGen_2
+    3300032: PB_NewPowerGen_3
+    4300000: arena1_wall
+    4300002: arenaa1_wall_screen
+    4300004: arena1_wall_2_2
+    4300006: arenaa1_wall_screen_2
+    4300008: arena1_wall_3_2
+    4300010: arenaa1_wall_screen_3
+    4300012: arena1_wall_5
+    4300014: arenaa1_wall_screen_4
+    4300016: NewPowerPad
+    4300018: PB_NewPowerGen_3
+    4300020: PB_NewPowerGen_2
+    4300022: PB_NewPowerGen_1
+    4300024: PB_NewPowerGen
+    4300026: arenea_1_1_4
+    4300028: arenea_floor
+    4300030: arenaRoof
+    4300032: arenaRoofsideScreens
+    6400000: arena1_wall
+    6400002: arena1_wall_2_2
+    6400004: arena1_wall_3_2
+    6400006: arena1_wall_5
+    6400008: arenaa1_wall_screen
+    6400010: arenaa1_wall_screen_2
+    6400012: arenaa1_wall_screen_3
+    6400014: arenaa1_wall_screen_4
+    6400016: arenaRoof
+    6400018: arenaRoofsideScreens
+    6400020: arenea_1_1_4
+    6400022: arenea_floor
+    6400024: NewPowerPad
+    6400026: PB_NewPowerGen
+    6400028: PB_NewPowerGen_1
+    6400030: PB_NewPowerGen_2
+    6400032: PB_NewPowerGen_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
