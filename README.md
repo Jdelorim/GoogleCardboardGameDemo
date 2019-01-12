@@ -18,5 +18,5 @@ Joshua deLorimier
 
 https://www.joshuadelorimier.com
 
-https://www.trashtrashvisuals.com
+http://www.trashtrashvisuals.com
 
